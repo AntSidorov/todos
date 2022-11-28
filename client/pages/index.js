@@ -1,4 +1,3 @@
-import { Header, List } from "semantic-ui-react";
 import Layout from "../components/Layout";
 import styles from "../styles/index.module.css";
 
