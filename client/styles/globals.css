@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+
+html,
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif, 'Courgette', cursive;
+    background-image: url('../res/image.jpg') !important;
+    
+}

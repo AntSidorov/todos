@@ -1,0 +1,33 @@
+.header {
+    font-family: 'Indie Flower', cursive;
+    color: rgb(26, 109, 235);
+    font-size: 70px;
+    text-align: center;
+    margin-top: 50px;
+  }  
+.header2 {
+    font-family: 'Indie Flower', cursive;
+    color: rgba(7, 85, 211, 0.747);
+    font-size: 30px;
+}
+.header3 {
+    font-family: 'Saira Condensed', sans-serif;
+    color: rgba(7, 85, 211, 0.747);
+    font-size: 30px;
+}
+
+.menu {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    margin: 0;
+}
+.menu li {
+    padding-bottom: 15px;
+  } 
+.menu li > a {
+    display: block;
+    text-decoration: none;
+}
+.menu li::marker {
+	color: #4183c4;
+}
