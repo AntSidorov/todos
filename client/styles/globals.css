@@ -6,6 +6,7 @@ html,
 body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif, 'Courgette', cursive;
-    background-image: url('../res/image.jpg') !important;
+    /*background-image: url('../res/image.jpg') !important;*/
+    background-image: url('https://kartinkin.net/pics/uploads/posts/2022-08/1660395154_1-kartinkin-net-p-geometricheskii-fon-dlya-fotoshopa-krasivo-1.jpg') !important;
     
 }
